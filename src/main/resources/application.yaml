@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: webclienttest
+
+springdoc:
+  swagger-ui:
+    path: /swagger
